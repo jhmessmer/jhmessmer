@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 I am John
 
 <!--
 **jhmessmer/jhmessmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
